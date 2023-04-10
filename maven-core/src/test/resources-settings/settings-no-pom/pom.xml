@@ -11,3 +11,5 @@
   <name>maven-mng3099-plugin</name>
   <description>Tests properties injected as a result of active profiles in the user settings file.</description>
 </project>
+
+ 

@@ -34,3 +34,5 @@ NOTE: This POM's XML declaration specified no encoding which should therefore de
   <name>Maven Integration Test :: MNG-2254 :: UTF-8</name>
   <description>TEST-CHARS: ßıΣЯא€</description>
 </project>
+
+ 
