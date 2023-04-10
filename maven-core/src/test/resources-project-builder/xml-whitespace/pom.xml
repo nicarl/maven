@@ -41,3 +41,4 @@ under the License.
     Test that whitespace around artifact coordinates does not change artifact identity.
   </description>
 </project>
+

@@ -33,3 +33,4 @@ under the License.
     Test that the model builder fails when a parent POM has not "pom" packaging.
   </description>
 </project>
+
